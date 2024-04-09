@@ -1,3 +1,4 @@
+操作案例：https://sspai.com/post/76041
 # GoogleTranslateIpCheck
 #### 扫描国内可用的谷歌翻译IP
 #### 如果都不能使用可以删除 ip.txt 文件调用远程IP或进入扫描模式
